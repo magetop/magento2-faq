@@ -1,0 +1,2 @@
+# magento2-faq
+This is an awesome module, Admin can create unlimited, update, delete FAQs and FAQ categories free. The interface is easy to use. This extension is the best FAQ extension for your bussiness. In the business, times equals money while there are always thousands of questions in a customer’s mind both before and after purchasing. Thus, the faster answers, the happier customers, the more successful business.
